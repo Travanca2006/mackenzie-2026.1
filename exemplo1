@@ -1,0 +1,13 @@
+/* lab. 1
+* Exemplo 1 */
+
+#include <stdio.h>
+
+int main(){
+
+  printf("Mackenzie - FCI\n");
+  printf("Algoritmos e");
+  printf("CC 2\n");
+
+  return 0;
+}
